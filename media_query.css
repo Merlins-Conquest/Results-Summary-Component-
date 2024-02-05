@@ -1,0 +1,36 @@
+@media screen and (max-width: 430px){
+
+    body{
+        display:flex; 
+        flex-wrap: wrap;
+        height: 0vh;
+        margin:0;
+    }
+
+    .card-one{
+        border-radius: 0% 0% 2rem 2rem;
+        width: auto;
+        margin-right: 2rem;
+    }
+
+    .card-two{
+        box-shadow: none;
+        margin:0;
+        width:auto;
+        height: auto;
+        margin-right: 2rem;
+        
+    }
+
+    .shape{
+        width: 300px;
+    }
+
+    .cont{
+        margin-top: 100%;
+        padding: 1.2rem;
+        font-size: 19px;
+    }
+
+
+}
